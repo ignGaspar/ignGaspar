@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello, i am Gaspar
+- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on LynxMC, OrbitDevelopment
+- Owner at @LynxMCNetwork
+  Discord: !   ignGasparChikito#0001
 
 <!--
 **ignGaspar/ignGaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
