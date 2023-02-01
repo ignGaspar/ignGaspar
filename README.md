@@ -1,20 +1,13 @@
-Hello, i am Gaspar
-- 🌱 I’m currently learning Java
-- 🔭 I’m currently working on LynxMC, OrbitDevelopment
-- Owner at @LynxMCNetwork
-  Discord: !   ignGasparChikito#0001
+Hi 👋
+I'm ignGaspar or Gaspar.
 
-<!--
-**ignGaspar/ignGaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• I'm Owner of **@** Neptune Network 🪐
+• Currently managing @ LynxLLC 🌙
 
-Here are some ideas to get you started:
+🖥 Learn new things is my passion!
+🧠 learning about
+; Java
+; Node.js
+; Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                    💘
