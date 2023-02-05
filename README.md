@@ -5,10 +5,10 @@ I'm ignGaspar or Gaspar.
 • Currently managing @ LynxLLC 🌙
 
 🖥 Learn new things is my passion!
-🧠 learning about
-; Java
-; Node.js
-; Python 
+🧠 learning about<br>
+; Java<br>
+; Node.js<br>
+; Python <br><br>
 
 
 💘
