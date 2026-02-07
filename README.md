@@ -1,17 +1,25 @@
-<h1 align="center">Hello. I'm Gaspar</h1>
-<h3 align="center">I'm learning about backend development.</h3>
+## Hi there! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igngaspar" alt="igngaspar" /></a> </p>
+I'm **Gaspar** — a Junior Developer focused on back-end development.  
+Passionate about writing clean code, contributing to open source, and learning production-ready backend practices. 🚀
 
-- 🔭 I’m currently working on **Stelar LLC**
+## About Me
 
-- 🌱 I’m currently learning **Java, Python, HTML, CSS & JavaScript**
+- **Name:** Gaspar
+- **Company:** @Stelar-LLC
+- **Location:** Ecuador
+- **GitHub Member Since:** Dec 20, 2020
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Currently focused on deepening my understanding of backend architectures, testing, and reliable deployment workflows. If you'd like to collaborate or mentor, I'm always open to new opportunities and feedback. 🙌
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Skills & Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fckgaspar&show_icons=true&locale=en" alt="igngaspar" /></p>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width=40 height=40> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width=40 height=40> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width=40 height=40> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width=40 height=40> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width=40 height=40>
+
+## Connect with Me
+
+- 🔗 GitHub: [https://github.com/ignGaspar](https://github.com/ignGaspar)
+- 🏢 Company: [https://github.com/Stelar-LLC](https://github.com/Stelar-LLC) 
+- 🎮 Discord: **igngaspar**
+
+Let's collaborate — open to mentoring, pairing on backend tasks, and contributing to meaningful open-source projects. 🤝
